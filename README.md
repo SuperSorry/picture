@@ -1,1 +1,1 @@
-# picutre
+# picture
